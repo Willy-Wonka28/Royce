@@ -1,0 +1,1175 @@
+  @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Gothic+A1&family=Montserrat:wght@500;700&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Gothic+A1&family=Montserrat:wght@500;700&family=Roboto:wght@100&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Gothic+A1&family=Montserrat:wght@500;700&family=Orbitron&family=Roboto:wght@100&display=swap');
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    color: white;
+    background-color: black;
+    font-family:'Gothic A1', sans-serif;
+}
+body header{
+    display: flex;
+    opacity: 0.95;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    border-bottom: 1px solid white;
+}
+.img1{
+    width:70px;
+    height:70px;
+}
+.navbar{
+    width:95px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left:25px;
+}
+.img2   {
+    width:25px;
+    height:25px;
+    filter:invert(100%);
+}
+.txt{
+    color: white;
+}
+.nav{
+    height: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav div{
+    width:20px;
+    height:3px;
+    border-radius: 1px;
+    background-color:white;
+}
+.head3{
+    color: white;
+    width:150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right:25px;
+}
+.font1{
+    text-align: center;
+    font-size:50px;
+    font-family:'Orbitron', sans-serif ;
+}
+.font2{
+    font-size:20px;
+    font-family:'Orbitron', sans-serif ;
+}
+.font3{
+    width:200px;
+    height:30px;
+    text-align: center;
+    border:solid;
+    border-bottom: white, solid;
+    color:white;
+    font-size:15px;
+    font-family:'Orbitron', sans-serif ;
+}
+.font3:hover{
+    color:black;
+    background-color: white;
+}
+.main1{
+      width:100%;
+      height:650px;
+      background-image: url("Screenshot\ \(12\).png");
+      background-repeat: no-repeat;
+      background-size:cover;
+      background-position: center;
+}
+.main2{
+    margin-top: 460px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+}
+.bg{
+    background-color: black;
+}
+.cont{
+    text-align: center;
+    padding: 30px;
+    font-size: 35px;
+    font-family:'Orbitron', sans-serif ;
+}
+.main3{
+    margin-top: -15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 400px; 
+}
+.img3{
+    width:420px;
+    height:300px;
+
+}
+.img4{
+    width:450px;
+    height:300px;
+}
+.img5{
+    width:400px;
+    height:300px;
+}
+.txt1{
+    height: 75px;
+    border-left:solid 1px white;
+    padding: 10px;
+}
+.txt2{
+    height: 75px;
+    border-left:solid 1px white;
+    padding: 10px;
+}
+.txt3{
+    height: 75px;
+    border-left:solid 1px white;
+    padding: 10px;
+}
+.foot1{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    padding:10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top:solid 0.1px white ;
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding:25px;
+}
+.l1 ul{
+    list-style-type: none;
+}
+.l2 ul{
+    list-style-type: none;
+}
+.rolls{
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+}
+.motor{
+    font-size: 20px;
+}
+.iconm{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width:200px;
+    padding:20px;
+    padding-left: 10px;
+}
+.twt{
+   height: 35px;
+   width:35px;
+   filter:invert(50%);
+}
+.inst{
+    height: 35px;
+    width:35px;
+    filter:invert(50%);
+}
+.fb{
+    height: 35px;
+    width:35px;
+    filter:invert(50%);
+}
+@media(max-width:650px){
+    @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Gothic+A1&family=Montserrat:wght@500;700&display=swap');
+
+    @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Gothic+A1&family=Montserrat:wght@500;700&family=Roboto:wght@100&display=swap');
+  
+    @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Gothic+A1&family=Montserrat:wght@500;700&family=Orbitron&family=Roboto:wght@100&display=swap');
+  
+  
+  *{
+      margin:0;
+      padding:0;
+      box-sizing: border-box;
+  }
+  body{
+      color: white;
+      background-color: black;
+      font-family:'Gothic A1', sans-serif;
+  }
+  body header{
+      display: flex;
+      opacity: 0.95;
+      justify-content: space-between;
+      align-items: center;
+      background-color: black;
+      border-bottom: 1px solid white;
+  }
+  .img1{
+      width:35px;
+      height:35px;
+  }
+  .navbar{
+      width:50px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+  }
+  .img2   {
+      width:15px;
+      height:15px;
+      filter:invert(100%);
+  }
+  .txt{
+      color: white;
+      font-size: 9px;
+  }
+  .nav{
+      height: 10px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+  }
+  .nav div{
+      width:10px;
+      height:1.5px;
+      background-color:white;
+  }
+  .head3{
+      color: white;
+      width:80px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  }
+  .find{
+    font-size:9px;
+  }
+  .font1{
+      text-align: center;
+      font-size:20px;
+      font-family:'Orbitron', sans-serif ;
+  }
+  .font2{
+      font-size:10px;
+      font-family:'Orbitron', sans-serif ;
+  }
+  .font3{
+      width:100px;
+      height:15px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      border:solid;
+      border-bottom: white, solid;
+      color:white;
+      font-size:7px;
+      font-family:'Orbitron', sans-serif ;
+  }
+  .font3:hover{
+      color:black;
+      background-color: white;
+  }
+  .main1{
+        width:100%;
+        height:200px;
+        background-image: url("Screenshot\ \(12\).png");
+        background-repeat: no-repeat;
+        background-size:contain;
+        background-position: center;
+  }
+  .main2{
+      margin-top: 110px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      height: 35px;
+  }
+  .bg{
+      background-color: black;
+  }
+  .cont{
+      text-align: center;
+      transform: translateY(-10px);
+      font-size: 15px;
+      font-family:'Orbitron', sans-serif ;
+  }
+  .main3{
+       display:block;
+  }
+
+  .img3{
+      width:210px;
+      height:150px;
+  }
+  .sub1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .sub2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .sub3{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .img4{
+      width:220px;
+      height:150px;
+  }
+  .img5{
+      width:200px;
+      height:150px;
+  }
+  .txt1{
+      height: 150px;
+      padding: 10px;
+      border: none;
+      font-size: 11px;
+  }
+  .txt1 h3{
+    text-align: center;
+    font-size: 15px;
+  }
+  .txt2{
+      height:150px;
+      padding: 10px;
+      border: none;
+      font-size: 11px;
+  }
+  .txt2 h3{
+    text-align: center;
+    font-size: 15px;
+  }
+  .txt3{
+      height:150px;
+      padding: 10px;
+      border: none;
+      font-size: 11px;
+  }
+  .txt3 h3{
+    text-align: center;
+    font-size: 15px;
+  }
+  .foot1{
+      margin-top: 500px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      flex-direction: column;
+      padding:10px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      border-top:solid 0.1px white ;
+  }
+  .list{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      padding:25px;
+      font-size: 13px;
+  }
+  .l1 ul{
+      list-style-type: none;
+  }
+  .l2 ul{
+      list-style-type: none;
+  }
+  .rolls{
+      font-size: 18px;
+      font-family: 'Roboto', sans-serif;
+  }
+  .motor{
+      font-size: 10px;
+  }
+  .iconm{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+  }
+  .icons{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width:100px;
+      padding:20px;
+      padding-left: 10px;
+  }
+  .twt{
+     height: 18px;
+     width:18px;
+     filter:invert(50%);
+  }
+  .inst{
+      height: 18px;
+      width:18px;
+      filter:invert(50%);
+  }
+  .fb{
+      height: 18px;
+      width:18px;
+      filter:invert(50%);
+  }
+
+}
+@media(min-width:650px){
+    @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Gothic+A1&family=Montserrat:wght@500;700&display=swap');
+
+    @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Gothic+A1&family=Montserrat:wght@500;700&family=Roboto:wght@100&display=swap');
+  
+    @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Gothic+A1&family=Montserrat:wght@500;700&family=Orbitron&family=Roboto:wght@100&display=swap');
+  
+  
+  *{
+      margin:0;
+      padding:0;
+      box-sizing: border-box;
+  }
+  body{
+      color: white;
+      background-color: black;
+      font-family:'Gothic A1', sans-serif;
+  }
+  body header{
+      display: flex;
+      opacity: 0.95;
+      justify-content: space-between;
+      align-items: center;
+      background-color: black;
+      border-bottom: 1px solid white;
+  }
+  .img1{
+      width:65px;
+      height:65px;
+  }
+  .navbar{
+      width:80px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+  }
+  .img2   {
+      width:25px;
+      height:25px;
+      filter:invert(100%);
+  }
+  .txt{
+      color: white;
+      font-size: 20px;
+  }
+  .nav{
+      height: 10px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+  }
+  .nav div{
+      width:10px;
+      height:1.5px;
+      background-color:white;
+  }
+  .head3{
+      color: white;
+      width:170px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  }
+  .find{
+    font-size:20px;
+  }
+  .font1{
+      text-align: center;
+      font-size:32px;
+      font-family:'Orbitron', sans-serif ;
+  }
+  .font2{
+      font-size:20px;
+      font-family:'Orbitron', sans-serif ;
+  }
+  .font3{
+      width:150px;
+      height:30px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      border:solid;
+      border-bottom: white, solid;
+      color:white;
+      font-size:12px;
+      font-family:'Orbitron', sans-serif ;
+  }
+  .font3:hover{
+      color:black;
+      background-color: white;
+  }
+  .main1{
+        width:100%;
+        height:500px;
+        background-image: url("Screenshot\ \(12\).png");
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-position: center;
+  }
+  .main2{
+      margin-top:330px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      height:75px;
+  }
+  .bg{
+      background-color: black;
+  }
+  .cont{
+      text-align: center;
+      transform: translateY(-10px);
+      font-size: 25px;
+      font-family:'Orbitron', sans-serif ;
+  }
+  .main3{
+       display:block;
+  }
+
+  .img3{
+      width:600px;
+      height:400px;
+  }
+  .sub1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .sub2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .sub3{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .img4{
+      width:600px;
+      height:400px;
+  }
+  .img5{
+      width:600px;
+      height:400px;
+  }
+  .txt1{
+      height: 150px;
+      padding: 10px;
+      border: none;
+      font-size:20px;
+  }
+  .txt1 h3{
+    text-align: center;
+    font-size:25px;
+  }
+  .txt2{
+      height:150px;
+      padding: 10px;
+      border: none;
+      font-size:20px;
+  }
+  .txt2 h3{
+    text-align: center;
+    font-size:25px;
+  }
+  .txt3{
+      height:150px;
+      padding: 10px;
+      border: none;
+      font-size:20px;
+  }
+  .txt3 h3{
+    text-align: center;
+    font-size:25px;
+  }
+  .foot1{
+      margin-top: 1300px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      flex-direction: column;
+      padding:10px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      border-top:solid 0.1px white ;
+  }
+  .list{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      padding:25px;
+      font-size:24px;
+  }
+  .l1 ul{
+      list-style-type: none;
+  }
+  .l2 ul{
+      list-style-type: none;
+  }
+  .rolls{
+      font-size:27px;
+      font-family: 'Roboto', sans-serif;
+  }
+  .motor{
+      font-size:18px;
+  }
+  .iconm{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+  }
+  .icons{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width:150px;
+      padding:20px;
+      padding-left: 10px;
+  }
+  .twt{
+     height:30px;
+     width:30px;
+     filter:invert(50%);
+  }
+  .inst{
+      height: 30px;
+      width:30px;
+      filter:invert(50%);
+  }
+  .fb{
+      height:30px;
+      width:30px;
+      filter:invert(50%);
+  }
+}
+@media (min-width:1240px){
+    @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Gothic+A1&family=Montserrat:wght@500;700&display=swap');
+
+    @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Gothic+A1&family=Montserrat:wght@500;700&family=Roboto:wght@100&display=swap');
+  
+    @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Gothic+A1&family=Montserrat:wght@500;700&family=Orbitron&family=Roboto:wght@100&display=swap');
+  
+  
+  *{
+      margin:0;
+      padding:0;
+      box-sizing: border-box;
+  }
+  body{
+      color: white;
+      background-color: black;
+      font-family:'Gothic A1', sans-serif;
+  }
+  body header{
+      display: flex;
+      opacity: 0.95;
+      justify-content: space-between;
+      align-items: center;
+      background-color: black;
+      border-bottom: 1px solid white;
+  }
+  .img1{
+      width:70px;
+      height:70px;
+  }
+  .navbar{
+      width:95px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      margin-left:25px;
+  }
+  .img2   {
+      width:25px;
+      height:25px;
+      filter:invert(100%);
+  }
+  .txt{
+      color: white;
+  }
+  .nav{
+      height: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+  }
+  .nav div{
+      width:20px;
+      height:3px;
+      border-radius: 1px;
+      background-color:white;
+  }
+  .head3{
+      color: white;
+      width:180px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-right:25px;
+  }
+  .font1{
+      text-align: center;
+      font-size:50px;
+      font-family:'Orbitron', sans-serif ;
+  }
+  .font2{
+      font-size:20px;
+      font-family:'Orbitron', sans-serif ;
+  }
+  .font3{
+      width:200px;
+      height:30px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      border:solid;
+      border-bottom: white, solid;
+      color:white;
+      font-size:15px;
+      font-family:'Orbitron', sans-serif ;
+  }
+  .font3:hover{
+      color:black;
+      background-color: white;
+  }
+  .main1{
+        width:100%;
+        height:650px;
+        background-image: url("Screenshot\ \(12\).png");
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-position: center;
+  }
+  .main2{
+      margin-top: 460px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      height: 100px;
+  }
+  .bg{
+      background-color: black;
+  }
+  .cont{
+      text-align: center;
+      padding: 30px;
+      font-size: 35px;
+      font-family:'Orbitron', sans-serif ;
+  }
+  .main3{
+      margin-top: -75px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      height: 500px; 
+  }
+  .img3{
+      width:400px;
+      height:300px;
+  
+  }
+  .img4{
+      width:450px;
+      height:300px;
+  }
+  .img5{
+      width:400px;
+      height:300px;
+  }
+  .txt1{
+      height: 75px;
+      border-left:solid 1px white;
+      padding: 10px;
+  }
+  .txt2{
+      height: 75px;
+      border-left:solid 1px white;
+      padding: 10px;
+  }
+  .txt3{
+      height: 75px;
+      border-left:solid 1px white;
+      padding: 10px;
+  }
+    .sub1{
+        width: 400px;
+    display:block;
+  }
+  .sub2{
+    width: 450px;
+    display:block;
+  }
+  .sub3{
+    width: 400px;
+    display:block;
+  }
+  .txt1{
+    font-size:15px;
+    }
+    .txt2{
+    font-size:15px;
+    }
+    .txt3{
+    font-size:15px;
+    }
+.txt1 h3{
+text-align:left;
+font-size:25px;
+}
+.txt2 h3{
+text-align:left;
+font-size:25px;
+}
+.txt3 h3{
+text-align:left;
+font-size:25px;
+}
+  .foot1{
+      margin-top: 20px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      flex-direction: column;
+      padding:10px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      border-top:solid 0.1px white ;
+  }
+  .list{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      padding:25px;
+  }
+  .l1 ul{
+      list-style-type: none;
+  }
+  .l2 ul{
+      list-style-type: none;
+  }
+  .rolls{
+      font-size: 35px;
+      font-family: 'Roboto', sans-serif;
+  }
+  .motor{
+      font-size: 20px;
+  }
+  .iconm{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+  }
+  .icons{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width:200px;
+      padding:20px;
+      padding-left: 10px;
+  }
+  .twt{
+     height: 35px;
+     width:35px;
+     filter:invert(50%);
+  }
+  .inst{
+      height: 35px;
+      width:35px;
+      filter:invert(50%);
+  }
+  .fb{
+      height: 35px;
+      width:35px;
+      filter:invert(50%);
+  }
+}
+@media(max-width:290px){
+    @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Gothic+A1&family=Montserrat:wght@500;700&display=swap');
+
+    @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Gothic+A1&family=Montserrat:wght@500;700&family=Roboto:wght@100&display=swap');
+  
+    @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Gothic+A1&family=Montserrat:wght@500;700&family=Orbitron&family=Roboto:wght@100&display=swap');
+  
+  
+  *{
+      margin:0;
+      padding:0;
+      box-sizing: border-box;
+  }
+  body{
+      color: white;
+      background-color: black;
+      font-family:'Gothic A1', sans-serif;
+  }
+  body header{
+      display: flex;
+      opacity: 0.95;
+      justify-content: space-between;
+      align-items: center;
+      background-color: black;
+      border-bottom: 1px solid white;
+  }
+  .img1{
+      width:30px;
+      height:30px;
+  }
+  .navbar{
+      width:35px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+  }
+  .img2   {
+      width:10px;
+      height:10px;
+      filter:invert(100%);
+  }
+  .txt{
+      color: white;
+      font-size: 7px;
+  }
+  .nav{
+      height:6px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+  }
+  .nav div{
+      width:7px;
+      height:1.5px;
+      background-color:white;
+  }
+  .head3{
+      color: white;
+      width:60px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  }
+  .find{
+    font-size:7px;
+  }
+  .font1{
+      text-align: center;
+      font-size:13px;
+      font-family:'Orbitron', sans-serif ;
+  }
+  .font2{
+      font-size:10px;
+      font-family:'Orbitron', sans-serif ;
+  }
+  .font3{
+      width:100px;
+      height:15px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      border:solid;
+      border-bottom: white, solid;
+      color:white;
+      font-size:7px;
+      font-family:'Orbitron', sans-serif ;
+  }
+  .font3:hover{
+      color:black;
+      background-color: white;
+  }
+  .main1{
+        width:100%;
+        height:200px;
+        background-image: url("Screenshot\ \(12\).png");
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-position: center;
+  }
+  .main2{
+      margin-top: 130px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      height: 35px;
+  }
+  .bg{
+      background-color: black;
+  }
+  .cont{
+      text-align: center;
+      transform: translateY(-10px);
+      font-size: 10px;
+      font-family:'Orbitron', sans-serif ;
+  }
+  .main3{
+       display:block;
+  }
+
+  .img3{
+      width:210px;
+      height:150px;
+  }
+  .sub1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .sub2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .sub3{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .img4{
+      width:220px;
+      height:150px;
+  }
+  .img5{
+      width:200px;
+      height:150px;
+  }
+  .txt1{
+      height: 150px;
+      padding: 10px;
+      border: none;
+      font-size: 9px;
+  }
+  .txt1 h3{
+    text-align: center;
+    font-size: 12px;
+  }
+  .txt2{
+      height:150px;
+      padding: 10px;
+      border: none;
+      font-size: 9px;
+  }
+  .txt2 h3{
+    text-align: center;
+    font-size: 12px;
+  }
+  .txt3{
+      height:150px;
+      padding: 10px;
+      border: none;
+      font-size: 9px;
+  }
+  .txt3 h3{
+    text-align: center;
+    font-size: 12px;
+  }
+  .foot1{
+      margin-top: 500px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      flex-direction: column;
+      padding:10px;
+      padding-top: 20px;
+      border-top:solid 0.1px white ;
+  }
+  .list{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      padding:25px;
+      padding-top: 0px;
+      padding-bottom: 0px;
+      font-size: 9px;
+  }
+  .l1 ul{
+      list-style-type: none;
+  }
+  .l2 ul{
+      list-style-type: none;
+  }
+  .rolls{
+      font-size: 13px;
+      font-family: 'Roboto', sans-serif;
+  }
+  .motor{
+      font-size: 7px;
+  }
+  .iconm{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+  }
+  .icons{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width:100px;
+      padding:20px;
+      padding-left: 10px;
+  }
+  .twt{
+     height: 18px;
+     width:18px;
+     filter:invert(50%);
+  }
+  .inst{
+      height: 18px;
+      width:18px;
+      filter:invert(50%);
+  }
+  .fb{
+      height: 18px;
+      width:18px;
+      filter:invert(50%);
+  }
+
+}
